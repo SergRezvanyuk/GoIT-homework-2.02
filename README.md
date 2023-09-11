@@ -1,1 +1,1 @@
-# GoIT-homework-2.02
+# GoIT-homework-2.2
